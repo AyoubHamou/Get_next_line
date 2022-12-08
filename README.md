@@ -10,7 +10,7 @@ but it will also make you learn a highly interesting new concept in C programmin
 variables.
 
 ---
-### ♦️ Main Topic
+###  Main Topic
 **File descriptor.**
 - What is file descriptor ?
 
